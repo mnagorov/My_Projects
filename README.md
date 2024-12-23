@@ -1,2 +1,2 @@
-# Practicum_Projects
+# My_Projects
 
